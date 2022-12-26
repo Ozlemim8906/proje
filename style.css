@@ -1,0 +1,155 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  height: 100%;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body {
+  display: block;
+  margin: 8px;
+}
+div {
+  display: block;
+}
+p{
+  font-size: 20px;
+  font-family: cursive;
+}
+
+.img1 {
+  background-image: url(cupcakes-1825136_960_720.jpg);
+  height: 100%;
+  position: relative;
+  opacity: 0.8;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.box1 h3 {
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 2px;
+  color:fuchsia;
+}
+h3 {
+  display: block;
+  font-size: 1.17em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+  
+.img2 {
+    background-image: url(./mrs-cupcakeface.jpg);
+    min-height: 80%;
+    position: relative;
+    opacity: 0.8;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .text2 {
+    position:absolute;
+    left: 0;
+    top: 45%;
+    width:100%;
+    text-align: center;
+}
+img {
+    width: 500px;
+  }
+
+  .box2 {
+    background-color: #D9AFD9;
+    background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+    color: whitesmoke;
+    padding: 50px 80px;
+    text-align: center;
+  }
+  .box1 {
+    background-color: #D9AFD9;
+    background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+    color: whitesmoke;
+    padding: 50px 80px;
+    text-align: center;
+  }
+
+  .img3 {
+    background-image: url(./kahveli-cupcake-tarifi.webp);
+    height: 80%;
+    position: relative;
+    opacity: 0.8;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+.img4 {
+    background-image: url(./cupcake-791117_960_720.jpg);
+    min-height: 80%;
+    position: relative;
+    opacity: 0.8;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .caption {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+  }
+  .caption span {
+    background-color:rgba(255, 0, 255, 0.519);
+    color: white;
+    font-size: 50px;
+    padding: 26px;
+    letter-spacing: 10px;
+    border-radius: 30px 0 30px 0px;
+    padding: 30px;
+    outline: 0.5rem inset rgba(170, 13, 170, 0.274);
+    outline-offset: 1rem;
+  }
+ 
+  .img5 {
+    background-image: url(./man-2557408_960_720.jpg);
+    min-height: 100%;
+    position: relative;
+    opacity: 0.8;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box2 h3 {
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 2px;
+  color:fuchsia;
+}
+
+
+
+
+
+
+
+
+
